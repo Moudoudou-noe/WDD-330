@@ -183,6 +183,26 @@ button {
   margin: 0.5em 0;
 }
 
+.product-card__price{
+  display: inline;
+  color: aqua;
+}
+.ok{
+  display: block;
+}
+.one-price{
+  text-decoration:line-through;
+  color:#659dcb;
+  background-color: #525b0f;
+}
+.second-price{
+  color:rgb(160, 76, 76);
+  background-color: #525b0f;
+}
+span{
+  color:#8a470c;
+  text-decoration:overline;
+}
 .card__brand {
   font-size: var(--small-font);
 }
